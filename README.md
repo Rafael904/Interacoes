@@ -1,4 +1,4 @@
-# 🚀 Interações em JavaScript
+# 🧮 Interações em JavaScript
 
 > Projetos interativos utilizando manipulação de DOM, eventos e lógica condicional.
 
